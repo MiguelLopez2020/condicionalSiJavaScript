@@ -1,0 +1,12 @@
+.recuadro {
+    border: black solid 2px;
+}
+
+h1 {
+    text-align: center;
+}
+img{
+    padding: 0 25% 0 25%;
+    margin: 0 10% 0 10%;
+    align-items: center;
+}
