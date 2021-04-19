@@ -12,3 +12,9 @@ img {
 body {
     background-color: burlywood;
 }
+
+.img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
