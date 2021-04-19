@@ -1,12 +1,14 @@
-.recuadro {
-    border: black solid 2px;
-}
-
 h1 {
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
-img{
+
+img {
     padding: 0 25% 0 25%;
     margin: 0 10% 0 10%;
     align-items: center;
+}
+
+body {
+    background-color: burlywood;
 }
