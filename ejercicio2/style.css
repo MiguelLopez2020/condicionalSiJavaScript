@@ -1,0 +1,25 @@
+body {
+    background-image: url(img.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: floralwhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.campo {
+    padding: 0 30% 0 30%;
+    text-align: center;
+}
+
+.boton {
+    align-items: center;
+    margin: 0 50%;
+}
